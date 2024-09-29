@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811611952090",
+    "project_id": "todoapp-85504",
+    "storage_bucket": "todoapp-85504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811611952090:android:86adc984c9181089ab26e3",
+        "android_client_info": {
+          "package_name": "com.example.calculater_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzcB-HCZO-XU70GUY3eu8kW0GnuQyd1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
